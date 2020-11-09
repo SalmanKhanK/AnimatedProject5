@@ -1,0 +1,19 @@
+html {
+    scroll-behavior: smooth;
+  }
+.covidImg{
+    margin-top: 40px;
+}
+.covidText{
+    margin-top:70px;
+    padding-top: 40px;
+    font-size: 20px;
+    font-weight: 100;
+
+}
+@media only screen and (max-width: 600px) {
+    .covidText {
+      margin-bottom: 60px;
+   
+    }
+  }

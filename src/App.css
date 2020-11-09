@@ -1,0 +1,29 @@
+html {
+    scroll-behavior: smooth;
+  }
+.target{
+    width:100px;
+    height:100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    color: azure;
+}
+.mt{
+    margin-top: 60px;
+}
+.center{
+    text-align: center;
+}
+.hoverStyle:hover{
+    cursor: pointer;
+    border-width: 1px;
+    transform: scale(1.1);
+}
+@media only screen and (max-width: 600px) {
+    .separateCard {
+      margin: 20px;
+   
+    }
+  }
