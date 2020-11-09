@@ -1,4 +1,4 @@
-import React, { useRef,useEffect,useState } from 'react'
+import React from 'react'
 import { Row, Col, Container, Card } from 'react-bootstrap';
 import doctorimg from '../images/images.png'
 import "../App.css"

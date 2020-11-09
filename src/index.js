@@ -6,7 +6,7 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 import { Home } from './component/Home';
 import { Cause } from './component/Cause';
-import { Stayhome, Stayhomepage } from './component/Stayhomepage';
+import {  Stayhomepage } from './component/Stayhomepage';
 import { Items } from './component/Items';
 import { Footer } from './Layout/Footer';
 

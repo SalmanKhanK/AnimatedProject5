@@ -1,13 +1,13 @@
 import React from 'react'
 import Lottie from "react-lottie"
 import Stayhome from '../animation/Stayhome.json'
-import { Row,Col, Container,Alert } from 'react-bootstrap';
+import { Row,Col, Container } from 'react-bootstrap';
 import '../App.css'
 import Fade from 'react-reveal/Fade';
-import useWebAnimations,{fadeInUp} from "@wellyshen/use-web-animations";
+
 
 export const Stayhomepage = () => {
-    //const { ref,playState,getAnimation} = useWebAnimations({...fadeInUp})
+   
  
 
     return (
